@@ -1,0 +1,22 @@
+Link do repositório:
+https://github.com/4yob/AtividadeArrays.git
+https://github.com/4yob/AtividadeArrays
+
+Tutoriais do Github:
+
+Para criar um novo repositório no terminal
+
+echo "# AtividadeArrays" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/4yob/AtividadeArrays.git
+git push -u origin main
+
+Para empurrar um repositório existente do terminal para a nuvem/Github
+
+git remote add origin https://github.com/4yob/AtividadeArrays.git
+git branch -M main
+git push -u origin main
+
